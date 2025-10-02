@@ -1,0 +1,39 @@
+{
+  "@id": "/chatgpt-image-18-de-jul-de-2025-11_14_26-v2.png",
+  "@type": "Image",
+  "UID": "11e9a94292504ac49f8d636911392a4c",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:41:46+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "chatgpt-image-18-de-jul-de-2025-11_14_26-v2.png",
+  "image": {
+    "blob_path": "11e9a94292504ac49f8d636911392a4c/image/ChatGPT Image 18 de jul. de 2025, 11_14_26-v2.png",
+    "content-type": "image/png",
+    "filename": "ChatGPT Image 18 de jul. de 2025, 11_14_26-v2.png",
+    "height": 728,
+    "size": 1387141,
+    "width": 1024
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:41:46+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "ChatGPT Image 18 de jul. de 2025, 11_14_26-v2.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

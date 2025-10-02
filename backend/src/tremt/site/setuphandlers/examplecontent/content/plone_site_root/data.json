@@ -1,0 +1,69 @@
+{
+  "@id": "/Plone",
+  "@type": "Plone Site",
+  "UID": "plone_site_root",
+  "allow_discussion": null,
+  "blocks": {
+    "5f31e9e4-173f-4ec1-ab48-64e9e2789b76": {
+      "@type": "title"
+    },
+    "ae4cfc00-507f-4eea-945f-ff8558a9e393": {
+      "@type": "description"
+    },
+    "b9f13103-95c9-48f6-9578-6c864fc3bdcc": {
+      "@type": "image",
+      "align": "center",
+      "alt": "Treinamento Plone tremt",
+      "image_field": "image",
+      "size": "l",
+      "url": "resolveuid/11e9a94292504ac49f8d636911392a4c"
+    },
+    "e5ace182-3746-472c-ad81-696425a2b161": {
+      "@type": "slate",
+      "plaintext": "Boas vindas",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Boas vindas"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "5f31e9e4-173f-4ec1-ab48-64e9e2789b76",
+      "ae4cfc00-507f-4eea-945f-ff8558a9e393",
+      "e5ace182-3746-472c-ad81-696425a2b161",
+      "b9f13103-95c9-48f6-9578-6c864fc3bdcc"
+    ]
+  },
+  "contributors": [],
+  "creators": [
+    "admin"
+  ],
+  "description": "Site do treinamento Plone no TRE-MT",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "Plone",
+  "is_folderish": true,
+  "items_total": 2,
+  "language": "##DEFAULT##",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Projeto Treinamento TRE-MT",
+  "type_title": "Plone Site",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
