@@ -1,6 +1,7 @@
 # Treinamento TRE-MT (volto-tremt-site)
 
-Treinamento de DevOps utilizando o Plone 6
+Treinamento de DevOps utilizando o Plone 6. 
+Teste de Deploy Manual no Main com Git Hub. 
 
 [![npm](https://img.shields.io/npm/v/volto-tremt-site)](https://www.npmjs.com/package/volto-tremt-site)
 [![](https://img.shields.io/badge/-Storybook-ff4785?logo=Storybook&logoColor=white&style=flat-square)](https://carloshcl.github.io/volto-tremt-site/)
