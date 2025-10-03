@@ -1,5 +1,5 @@
 const addons = ['volto-tremt-site'];
-const theme = '';
+const theme = '@kitconcept/volto-light-theme';
 
 module.exports = {
   addons,
